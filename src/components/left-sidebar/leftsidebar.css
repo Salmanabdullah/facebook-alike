@@ -1,0 +1,11 @@
+.leftsidebar{
+    width: 200px;
+    background-color: aliceblue;
+}
+.leftsidebar span{
+    margin-left: 0.5rem;
+}
+.leftsidebar img{
+    border-radius: 50%;
+    margin: 5px 2px ;
+}
