@@ -1,4 +1,5 @@
 .leftsidebar{
+    margin-top: 60px;
     width: 200px;
     background-color: aliceblue;
 }
@@ -8,4 +9,10 @@
 .leftsidebar img{
     border-radius: 50%;
     margin: 5px 2px ;
+}
+.leftsidebar div:hover{
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 0.2rem;
+    cursor: pointer;
 }
