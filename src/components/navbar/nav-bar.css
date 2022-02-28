@@ -1,8 +1,23 @@
 .top-bar {
-  padding: 0.8rem 0.1rem;
+  padding: 10px 10px;
   height: 50px;
   font-size: 1.2rem;
   text-transform: capitalize;
   background-color: aliceblue;
+  margin-top: 0;
+  overflow: hidden;
+  position: fixed;
   width: 100%;
 }
+.mid-icons div {
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  padding-right: 10px;
+  padding-top: 0px;
+}
+
