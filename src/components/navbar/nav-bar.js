@@ -21,6 +21,7 @@ function Topbar() {
         <div>groups</div>
         <div>gaming</div>
       </article>
+      
       <article className="right-icons d-flex justify-content-end gap-3 me-0">
         <div>profile</div>
         <div>menu</div>
